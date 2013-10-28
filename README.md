@@ -1,4 +1,3 @@
-Github fundations
+#Github fundations
+## Randi Øyri
 
-
-bla bla 
